@@ -26,6 +26,15 @@ header{
     background-repeat: no-repeat;
     color: white;
 }
+.call{
+    display: none;
+}
+.call1{
+    display: none;
+}
+.call2{
+    display: none;
+}
 h4{
     display: center;
     text-align: center;
