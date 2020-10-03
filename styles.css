@@ -7,21 +7,14 @@ header{
     display: center;
     text-align: center;
 } 
-.container p{
-    display: none;
-}
-.main>h1{
-        
-    text-transform: uppercase;
-    display: inline-block;
-    text-align: center;
-    font-style: normal;
-    font-family: 'Roboto', sans-serif;
-    font-size: 10px;
-}
+
 .main{
     background-image: url("images/assets/backgrounds/h_img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+}
+.about{
+    display: center;
+    text-align: center;
 }
