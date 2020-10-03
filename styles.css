@@ -99,16 +99,16 @@ h6{
     text-align: center; 
 }
 #user{
-    background-color: transparent;
-    border-color: grey;
+    background-color: white;
+    border-color:grey;
     border-style: solid;
     top: 150px;
     left: 250px;
     
 }
 #user1{
-    background-color: transparent;
-    border-color: grey;
+    background-color: white;
+    border-color:grey;
     border-style: solid;
     top: 150px;
     left: 650px;
