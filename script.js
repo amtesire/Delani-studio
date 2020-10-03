@@ -16,4 +16,17 @@ $(document).ready(function() {
       $(".call2").toggle();
     });
   });
-  
+  $(document).ready(function(){
+    $("form").submit(function (event) {
+  var inputName = $("#user").val();
+  var inputEmail = $("#user1").val();
+  var x = $("#user2").val();
+  if (inputName == "" || inputEmail == "" || x == "") {
+    alert("invalid input");
+  }
+  else {
+    alert('Hi  ' +  inputName + ' Thank you for reaching out to us.');
+  }
+  event.preventDefault();
+  });
+  });
