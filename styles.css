@@ -26,3 +26,7 @@ header{
     background-repeat: no-repeat;
     color: white;
 }
+h4 {
+    display: center;
+    text-align: center;
+}
